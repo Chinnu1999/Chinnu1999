@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Chinnu1999
-- 👀 I’m interested in Cyber Security
+- 👋 whoami - Ayyappan
+- 👀 pwd - MTech Software Engineer @ VIT University              
+- 👻 cd - Cysec Security (ls - Trainee Security Consultant)
+- 💬 I’m interested in Cyber Security
 - 🌱 I’m currently learning Ethical Hacking
-
+- 🌸Crush @ kali Linux
+- 🏆 Hackthebox ♡ Tryhackme
 
 
 <!---
